@@ -30,7 +30,7 @@ export default function RootLayout({
       > 
       <Navbar/> 
         {children} 
-      </body>
+      </body> 
     </html> 
   ); 
-} 
+}   
